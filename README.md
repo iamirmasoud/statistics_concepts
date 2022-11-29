@@ -1,7 +1,16 @@
 # Implementation of Statistics Concepts in Python
 
-Structure of repo
+## Structure of repo
 ```
+├── ab_testing
+│   ├── 0-Theory.ipynb
+│   ├── 1-Homepage Experiment Data.ipynb
+│   ├── 2-enrollment_rate.ipynb
+│   ├── 3-average_reading_duration.ipynb
+│   ├── 4-average_classroom_time.ipynb
+│   ├── 5-completion_rate.ipynb
+│   ├── data
+│   └── imgs
 ├── advanced_topics
 │   ├── Bayesian Regression with PyMC3.ipynb
 │   ├── Bayesian Treasure Hunt.ipynb
@@ -29,6 +38,11 @@ Structure of repo
 │   ├── 6-What is the impact of sample size.ipynb
 │   ├── data
 │   └── imgs
+├── practical_statistics
+│   ├── 0_ Inference - Basic Concepts
+│   ├── 1_ Inference - Confidence Interval
+│   ├── 2_ Inference - Hypothesis Testing
+│   └── 4_ Linear Regression - Interpreting Results and Model Performance
 ├── README.md
 ├── requirements.txt
 └── sampling_distributions_and_central_limit_theorem
@@ -40,5 +54,4 @@ Structure of repo
     ├── 5-Central Limit Theorem - Part III.ipynb
     ├── 6-Bootstrapping.ipynb
     └── imgs
-
 ```
