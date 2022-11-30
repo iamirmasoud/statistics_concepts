@@ -38,6 +38,34 @@
 │   ├── 6-What is the impact of sample size.ipynb
 │   ├── data
 │   └── imgs
+├── linear_regression
+│   ├── 0-Theory.ipynb
+│   ├── 1-The Regression Closed Form Solution.ipynb
+│   ├── 2- HousingAnalysis.ipynb
+│   ├── 3- RegressionCaratsVPrice.ipynb
+│   ├── 4-HomesVCrime.ipynb
+│   ├── data
+│   └── imgs
+├── logistic_regression
+│   ├── 0-Theory.ipynb
+│   ├── 1-Fitting Logistic Regression.ipynb
+│   ├── 2-Interpret Results.ipynb
+│   ├── 3-Model Diagnostics.ipynb
+│   ├── 3-Model Diagnostics - Solution.ipynb
+│   ├── data
+│   └── imgs
+├── multiple_linear_regression
+│   ├── 0-Theory.ipynb
+│   ├── 1-Multiple Linear Regression Introduction.ipynb
+│   ├── 2-Interpreting Model Coefficients.ipynb
+│   ├── 3-DummyVariables.ipynb
+│   ├── 4-One_Zero_Negative_One Coding.ipynb
+│   ├── 5-Multicollinearity & VIFs.ipynb
+│   ├── 6-Case Study.ipynb
+│   ├── 7-Feature Engineering.ipynb
+│   ├── books
+│   ├── data
+│   └── imgs
 ├── practical_statistics
 │   ├── 0_ Inference - Basic Concepts
 │   ├── 1_ Inference - Confidence Interval
@@ -54,4 +82,5 @@
     ├── 5-Central Limit Theorem - Part III.ipynb
     ├── 6-Bootstrapping.ipynb
     └── imgs
+
 ```
