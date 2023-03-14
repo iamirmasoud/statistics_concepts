@@ -85,6 +85,7 @@ This folder contains notebooks covering sampling distributions, the law of large
 │   ├── data
 │   └── imgs
 ├── advanced_topics
+│   ├── Bayesian Linear Regression using PyMC3.ipynb
 │   ├── Bayesian Regression with PyMC3.ipynb
 │   ├── Bayesian Treasure Hunt.ipynb
 │   ├── data
