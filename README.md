@@ -21,7 +21,7 @@ cd statistics_concepts
 	
 	At this point your command line should look something like: `(stats_env) <User>:statistics_concepts <user>$`. The `(stats_env)` indicates that your environment has been activated, and you can proceed with further package installations.
 
-3. Before you can experiment with the code, you'll have to make sure that you have all the libraries and dependencies required to support this project. You will mainly need Python3.7+ and PySpark. You can install  dependencies using:
+3. Before you can experiment with the code, you'll have to make sure that you have all the libraries and dependencies required to support this project. You can install dependencies using:
 ```
 pip install -r requirements.txt
 ```
@@ -31,7 +31,7 @@ pip install -r requirements.txt
 cd statistics_concepts
 ```
 
-5. Open the directory of notebooks, using the below command. You'll see all files appear in your local environment; open the first notebook and follow the instructions.
+5. Open the directory of notebooks, using the below command. You'll see all files appear in your local environment.
 ```shell
 jupyter notebook
 ```
